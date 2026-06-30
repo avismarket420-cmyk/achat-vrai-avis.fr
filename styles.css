@@ -1058,6 +1058,14 @@ img {
         height: 46px;
     }
 
+    .promo-bar {
+        top: 71px;
+    }
+
+    .nav-item.dropdown > .nav-link {
+        justify-content: center;
+    }
+
     .menu-toggle {
         display: flex;
     }
